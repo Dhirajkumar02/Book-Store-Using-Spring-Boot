@@ -22,12 +22,9 @@ A simple **Spring Boot-based Bookstore Application** where users can **view, add
 ---
 
 ### **📸 Screenshots**  
-```md
-![Screenshot BookStore](https://github.com/user-attachments/assets/c37fb22e-ce4d-46c6-acbc-222c36744403)
-```
+- ![Screenshot BookStore](https://github.com/user-attachments/assets/ff0a593e-8f26-4bc5-8afd-a849237d72ca)
 
 ---
-
 ### **🔧 Setup & Installation**
 #### **1️⃣ Clone the Repository**
 ```sh
